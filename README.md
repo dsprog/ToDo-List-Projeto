@@ -6,7 +6,11 @@ Projeto de aprimoramento dos estudos e leitura pra FullStack Developer
 ### Criar Api
 - Cadastro de Usuário
 - Login
--- Login Social
+- Login Social
 - Crud de Tarefas
--- Sub Tarefa
+- Sub Tarefa
 
+### Api Extra
+- Tarefas compartilhadas
+- Ordenador de Tarefas
+- Tags para tarefa
