@@ -1,5 +1,6 @@
 # ToDo List Projeto
-Projeto de aprimoramento dos estudos e leitura pra FullStack Developer
+Projeto de aprimoramento dos estudos melhorar a minha qualidade como FullStack Developer
+Esse Projeto foi criado e pensado por mim [Daniel Santos](https://dsprog.com.br)
 
 ## Tarefas
 
@@ -11,7 +12,6 @@ Projeto de aprimoramento dos estudos e leitura pra FullStack Developer
 5. Sub Tarefa
 *Token de segurança*
 *Tarefas associadas ao usuário*
-
 
 ### Api Extra
 6. Tarefas compartilhadas
@@ -25,8 +25,9 @@ Projeto de aprimoramento dos estudos e leitura pra FullStack Developer
 4. [Python](#)
 5. [Node.js](#)
 
-### Api Extra
-- Tarefas compartilhadas
-
-### Api Extra
-- Tarefas compartilhadas
+### Front-End do ToDo List
+1. [Angular](#)
+2. [Vue.js](#)
+3. [React](#)
+4. [Flutter](#)
+5. [Electron](#)
